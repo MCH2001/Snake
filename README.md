@@ -15,8 +15,8 @@ This project is a Java implementation of the popular Snake game. It provides a s
 ## Getting Started
 To run the game locally, follow these steps:
 1. Clone the repository: `git clone https://github.com/your-username/your-repo.git`
-2. Compile the Java source files: `javac SnakeGame.java`
-3. Run the game: `java SnakeGame`
+2. Compile the Java source files: `javac MyGUI.java`
+3. Run the game: `java MyGUI.java`
 
 ## Controls
 - Use the arrow keys (up, down, left, right) to control the snake's movement.
